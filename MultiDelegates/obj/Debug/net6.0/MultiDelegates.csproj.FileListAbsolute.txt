@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.exe
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.deps.json
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.runtimeconfig.json
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.dll
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\bin\Debug\net6.0\MultiDelegates.pdb
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.AssemblyInfo.cs
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.dll
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\refint\MultiDelegates.dll
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.pdb
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\MultiDelegates.genruntimeconfig.cache
+C:\Users\bludw\source\repos\MultiDelegates\MultiDelegates\obj\Debug\net6.0\ref\MultiDelegates.dll
